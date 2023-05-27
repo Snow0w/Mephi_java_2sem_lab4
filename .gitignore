@@ -1,0 +1,16 @@
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
+
+.classpath
+.gitattributes
+.project
+.settings/
+gradlew.bat
+settings.gradle
+files/.~lock.test.xlsx#
+Gui_old.java
+test
+files/.~lock.*
